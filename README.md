@@ -1,12 +1,11 @@
-<p align="center">
+<p>
   안녕하세요 성장하는 백엔드 개발자 안세령입니다😊<br>
 </p>
 
 <br>
 
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<h3>📚 Tech Stack 📚</h3>
   
   ## Backend
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>               <!-- 스프링 -->
@@ -34,8 +33,8 @@
 </p>
 
 
-<h3 align="center">📧 Email 📧</h3>
-<p align="center">
+<h3>📧 Email 📧</h3>
+<p>
   <Strong>sr1094@naver.com</Strong>
 </p>
 
