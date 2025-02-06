@@ -9,11 +9,11 @@
 <p align="center">
   
   ## Backend
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp                <!-- 스프링 -->
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp        <!-- 스프링부트 -->
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp                    <!-- 자바 -->
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp                   <!--gradle-->  
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp                <!-- 파이썬 -->        
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> &nbsp                <!-- 스프링 -->
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp        <!-- 스프링부트 -->
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp                    <!-- 자바 -->
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> &nbsp                   <!--gradle-->  
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp                <!-- 파이썬 -->        
   <br>
   
   ## Frontend
