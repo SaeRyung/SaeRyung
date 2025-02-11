@@ -32,10 +32,3 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a>                       <!-- 깃 -->
 </p>
 
-
-<h3>📧 Email 📧</h3>
-<p>
-  <Strong>sr1094@naver.com</Strong>
-</p>
-
-<br>
